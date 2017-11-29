@@ -1,7 +1,19 @@
 {
   "main.css": "static/css/main.653da357.css",
   "main.css.map": "static/css/main.653da357.css.map",
-  "main.js": "static/js/main.dc85809f.js",
-  "main.js.map": "static/js/main.dc85809f.js.map",
-  "static/media/gh.png": "static/media/gh.57d5585c.png"
+  "main.js": "static/js/main.172dd9ce.js",
+  "main.js.map": "static/js/main.172dd9ce.js.map",
+  "static/media/PWA.png": "static/media/PWA.0b380d17.png",
+  "static/media/disclaimer.png": "static/media/disclaimer.c6228ecf.png",
+  "static/media/gh.png": "static/media/gh.57d5585c.png",
+  "static/media/homescreen1.png": "static/media/homescreen1.c4d22f88.png",
+  "static/media/homescreen2.png": "static/media/homescreen2.1db5992c.png",
+  "static/media/homescreen3.png": "static/media/homescreen3.b226b798.png",
+  "static/media/homescreen_m.png": "static/media/homescreen_m.ec679efa.png",
+  "static/media/homescreen_w.png": "static/media/homescreen_w.d84cf03e.png",
+  "static/media/notif1.png": "static/media/notif1.cb4bc5e9.png",
+  "static/media/notif2.png": "static/media/notif2.2bb7b66f.png",
+  "static/media/notif3.png": "static/media/notif3.21004901.png",
+  "static/media/notif_p.png": "static/media/notif_p.ec679efa.png",
+  "static/media/notif_s.png": "static/media/notif_s.7835a45f.png"
 }
